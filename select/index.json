@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "アルミナ",
+  "base_artist": "ナイトメア",
+  "createdAt": "2025-12-06T11:57:50.328117Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アルミナ",
+      "artist": "Nightmare",
+      "has_synced": true,
+      "path": "select/01_アルミナ_Nightmare.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アルミナ",
+      "artist": "Nightmare",
+      "has_synced": true,
+      "path": "select/02_アルミナ_Nightmare.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アルミナ 〜TVサイズ〜",
+      "artist": "ナイトメア",
+      "has_synced": false,
+      "path": "select/03_アルミナ_〜TVサイズ〜_ナイトメア.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Alumina (アルミナ)",
+      "artist": "ナイトメア",
+      "has_synced": true,
+      "path": "select/04_Alumina_(アルミナ)_ナイトメア.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アルミナ [Alumina]",
+      "artist": "NIGHTMARE",
+      "has_synced": true,
+      "path": "select/05_アルミナ_[Alumina]_NIGHTMARE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アルミナ",
+      "artist": "Nightmare",
+      "has_synced": true,
+      "path": "select/06_アルミナ_Nightmare.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アルミナ ～TVサイズ～",
+      "artist": "タニウチヒデキ",
+      "has_synced": false,
+      "path": "select/07_アルミナ_~TVサイズ~_タニウチヒデキ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アルミナ (TV Size)",
+      "artist": "ナイトメア",
+      "has_synced": true,
+      "path": "select/08_アルミナ_(TV_Size)_ナイトメア.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アルミナ",
+      "artist": "Nightmare",
+      "has_synced": false,
+      "path": "select/pl_01_アルミナ_Nightmare.txt"
+    }
+  ]
+}
